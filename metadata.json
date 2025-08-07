@@ -1,0 +1,5 @@
+
+{
+  "name": "AI YouTube Podcast Analyzer",
+  "description": "An application that allows users to input a YouTube URL, process the video's content using AI, and interact with the summary and transcript in their preferred language."
+}
